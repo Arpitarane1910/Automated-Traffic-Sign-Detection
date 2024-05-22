@@ -1,1 +1,1 @@
-# Automated-Traffic-Sign-Detection.pdf
+# Automated-Traffic-Sign-Detection
